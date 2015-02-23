@@ -1,0 +1,30 @@
+Initialize engine version: 4.6.1f1 (d1db7a1b5196)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce 820M          (ID=0x1140)
+    Vendor:   NVIDIA
+    VRAM:     1994 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Phedra\Desktop\KDG\Feed the kitty project\builds\LostKitten_v0.01_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Phedra\Desktop\KDG\Feed the kitty project\builds\LostKitten_v0.01_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Phedra\Desktop\KDG\Feed the kitty project\builds\LostKitten_v0.01_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Phedra\Desktop\KDG\Feed the kitty project\builds\LostKitten_v0.01_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Phedra\Desktop\KDG\Feed the kitty project\builds\LostKitten_v0.01_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Phedra\Desktop\KDG\Feed the kitty project\builds\LostKitten_v0.01_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.259 seconds
+desktop: 1366x768 59Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found.
+<RI> Input initialized.
+Platform assembly: C:\Users\Phedra\Desktop\KDG\Feed the kitty project\builds\LostKitten_v0.01_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Phedra\Desktop\KDG\Feed the kitty project\builds\LostKitten_v0.01_Data\Managed\System.dll (this message is harmless)
+IsolatedStorageException: Could not find a part of the path "C:\Users\Phedra\Desktop\KDG\Feed the kitty project\builds\Assets\readwrite\Levels\02.dat".
+  at System.IO.FileStream..ctor (System.String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, Boolean anonymous, FileOptions options) [0x00000] in <filename unknown>:0 
+  at System.IO.FileStream..ctor (System.String path, FileMode mode, FileAccess access, FileShare share) [0x00000] in <filename unknown>:0 
+  at System.IO.File.Open (System.String path, FileMode mode) [0x00000] in <filename unknown>:0 
+  at FileReaderWriter.GetLevelTemplate (System.String levelName) [0x00000] in <filename unknown>:0 
+  at testscript.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+

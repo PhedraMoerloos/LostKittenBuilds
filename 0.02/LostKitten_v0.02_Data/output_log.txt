@@ -1,0 +1,47 @@
+Initialize engine version: 4.6.1f1 (d1db7a1b5196)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce 820M          (ID=0x1140)
+    Vendor:   NVIDIA
+    VRAM:     1994 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Phedra\Desktop\KDG\Feed the kitty project\builds\0.02\LostKitten_v0.02_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Phedra\Desktop\KDG\Feed the kitty project\builds\0.02\LostKitten_v0.02_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Phedra\Desktop\KDG\Feed the kitty project\builds\0.02\LostKitten_v0.02_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Phedra\Desktop\KDG\Feed the kitty project\builds\0.02\LostKitten_v0.02_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Phedra\Desktop\KDG\Feed the kitty project\builds\0.02\LostKitten_v0.02_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Phedra\Desktop\KDG\Feed the kitty project\builds\0.02\LostKitten_v0.02_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.273 seconds
+desktop: 1366x768 59Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found.
+<RI> Input initialized.
+Platform assembly: C:\Users\Phedra\Desktop\KDG\Feed the kitty project\builds\0.02\LostKitten_v0.02_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Phedra\Desktop\KDG\Feed the kitty project\builds\0.02\LostKitten_v0.02_Data\Managed\System.dll (this message is harmless)
+False
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+UnloadTime: 61.015881 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 36 unused Assets to reduce memory usage. Loaded Objects now: 182.
+Total: 7.028911 ms (FindLiveObjects: 0.076549 ms CreateObjectMapping: 0.025659 ms MarkObjects: 4.316306 ms  DeleteObjects: 0.377190 ms)
+
+True
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+True
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+True
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+True
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
