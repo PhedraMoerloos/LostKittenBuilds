@@ -13,7 +13,7 @@ $RECYCLE.BIN/
 *.msi
 *.msm
 *.msp
-
+output_log.txt
 # Windows shortcuts
 *.lnk
 

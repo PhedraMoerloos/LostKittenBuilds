@@ -2,24 +2,24 @@ Initialize engine version: 4.6.3f1 (4753d8b6ef2b)
 GfxDevice: creating device client; threaded=1
 Direct3D:
     Version:  Direct3D 11.0 [level 11.0]
-    Renderer: NVIDIA GeForce GT 635M    (ID=0xde3)
+    Renderer: NVIDIA GeForce GTX 760 (ID=0x1187)
     Vendor:   NVIDIA
-    VRAM:     1998 MB
+    VRAM:     1990 MB
 Begin MonoManager ReloadAssembly
-Platform assembly: C:\Users\Pepijn\Desktop\KDG\Programeren\P3Game-Project Pablo\GithubProjectPablo\LostKittenBuilds\0.03\LostKitten_v0.03_Data\Managed\UnityEngine.dll (this message is harmless)
-Loading C:\Users\Pepijn\Desktop\KDG\Programeren\P3Game-Project Pablo\GithubProjectPablo\LostKittenBuilds\0.03\LostKitten_v0.03_Data\Managed\UnityEngine.dll into Unity Child Domain
-Platform assembly: C:\Users\Pepijn\Desktop\KDG\Programeren\P3Game-Project Pablo\GithubProjectPablo\LostKittenBuilds\0.03\LostKitten_v0.03_Data\Managed\Assembly-CSharp.dll (this message is harmless)
-Loading C:\Users\Pepijn\Desktop\KDG\Programeren\P3Game-Project Pablo\GithubProjectPablo\LostKittenBuilds\0.03\LostKitten_v0.03_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
-Platform assembly: C:\Users\Pepijn\Desktop\KDG\Programeren\P3Game-Project Pablo\GithubProjectPablo\LostKittenBuilds\0.03\LostKitten_v0.03_Data\Managed\UnityEngine.UI.dll (this message is harmless)
-Loading C:\Users\Pepijn\Desktop\KDG\Programeren\P3Game-Project Pablo\GithubProjectPablo\LostKittenBuilds\0.03\LostKitten_v0.03_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
-Platform assembly: C:\Users\Pepijn\Desktop\KDG\Programeren\P3Game-Project Pablo\GithubProjectPablo\LostKittenBuilds\0.03\LostKitten_v0.03_Data\Managed\TDx.TDxInput.dll (this message is harmless)
-Loading C:\Users\Pepijn\Desktop\KDG\Programeren\P3Game-Project Pablo\GithubProjectPablo\LostKittenBuilds\0.03\LostKitten_v0.03_Data\Managed\TDx.TDxInput.dll into Unity Child Domain
-- Completed reload, in  0.058 seconds
-desktop: 1366x768 50Hz; virtual: 1366x768 at 0,0
+Platform assembly: E:\documenten\projecten\ProjectPablo\LostKittenBuilds\0.03\LostKitten_v0.03_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading E:\documenten\projecten\ProjectPablo\LostKittenBuilds\0.03\LostKitten_v0.03_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: E:\documenten\projecten\ProjectPablo\LostKittenBuilds\0.03\LostKitten_v0.03_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading E:\documenten\projecten\ProjectPablo\LostKittenBuilds\0.03\LostKitten_v0.03_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: E:\documenten\projecten\ProjectPablo\LostKittenBuilds\0.03\LostKitten_v0.03_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading E:\documenten\projecten\ProjectPablo\LostKittenBuilds\0.03\LostKitten_v0.03_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: E:\documenten\projecten\ProjectPablo\LostKittenBuilds\0.03\LostKitten_v0.03_Data\Managed\TDx.TDxInput.dll (this message is harmless)
+Loading E:\documenten\projecten\ProjectPablo\LostKittenBuilds\0.03\LostKitten_v0.03_Data\Managed\TDx.TDxInput.dll into Unity Child Domain
+- Completed reload, in  0.080 seconds
+desktop: 1920x1200 59Hz; virtual: 4480x1200 at -2560,0
 <RI> Initializing input.
 <RI> Input initialized.
-Platform assembly: C:\Users\Pepijn\Desktop\KDG\Programeren\P3Game-Project Pablo\GithubProjectPablo\LostKittenBuilds\0.03\LostKitten_v0.03_Data\Managed\System.Core.dll (this message is harmless)
-Platform assembly: C:\Users\Pepijn\Desktop\KDG\Programeren\P3Game-Project Pablo\GithubProjectPablo\LostKittenBuilds\0.03\LostKitten_v0.03_Data\Managed\System.dll (this message is harmless)
+Platform assembly: E:\documenten\projecten\ProjectPablo\LostKittenBuilds\0.03\LostKitten_v0.03_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: E:\documenten\projecten\ProjectPablo\LostKittenBuilds\0.03\LostKitten_v0.03_Data\Managed\System.dll (this message is harmless)
 2
  
 (Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
@@ -7720,3 +7720,14 @@ Platform assembly: C:\Users\Pepijn\Desktop\KDG\Programeren\P3Game-Project Pablo\
  
 (Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
 
+IsolatedStorageException: Could not find a part of the path "C:\Users\Pepijn W\AppData\LocalLow\DefaultCompany\LostKitten\Levels\01.dat".
+  at System.IO.FileStream..ctor (System.String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, Boolean anonymous, FileOptions options) [0x00000] in <filename unknown>:0 
+  at System.IO.FileStream..ctor (System.String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize) [0x00000] in <filename unknown>:0 
+  at System.IO.File.Create (System.String path, Int32 bufferSize) [0x00000] in <filename unknown>:0 
+  at System.IO.File.Create (System.String path) [0x00000] in <filename unknown>:0 
+  at FileReaderWriter.SaveLevelTemplate (System.String levelName, .LevelTemplate levelTemplate) [0x00000] in <filename unknown>:0 
+  at testscript.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Crash!!!
